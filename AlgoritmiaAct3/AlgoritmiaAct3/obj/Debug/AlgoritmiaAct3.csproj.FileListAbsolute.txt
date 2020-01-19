@@ -1,0 +1,7 @@
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\bin\Debug\AlgoritmiaAct3.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\bin\Debug\AlgoritmiaAct3.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\obj\Debug\AlgoritmiaAct3.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\obj\Debug\AlgoritmiaAct3.MainForm.resources
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\obj\Debug\AlgoritmiaAct3.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\obj\Debug\AlgoritmiaAct3.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct3\AlgoritmiaAct3\obj\Debug\AlgoritmiaAct3.pdb
